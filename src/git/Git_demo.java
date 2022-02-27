@@ -6,5 +6,6 @@ public class Git_demo {
         System.out.println("hi,git2!");
         System.out.println("hi,hot-fix");
         System.out.println("push test");
+        System.out.println("pull test");
     }
 }
